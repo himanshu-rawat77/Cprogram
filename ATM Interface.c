@@ -61,6 +61,7 @@ int main()
             delay(0.5);
         }
         printf("Your Account Balance = ********");
+        printf("Thank you for using the ATM of XYZ Bank");
     }
     return 0;
 }
